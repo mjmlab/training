@@ -5,14 +5,14 @@
 - [General advice](#general-advice)
 - [Command Line and Bash Shell](#command-line-and-bash-shell)
 - [GitHub and Git](#github-and-git)
-			- [Installation](#installation)
-			- [Training](#training)
-			- [Reference](#reference)
+	- [Installation](#installation)
+	- [Training](#training)
+	- [Reference](#reference)
 - [Python](#python)
 - [Markdown](#markdown)
-			- [Markdown syntax](#markdown-syntax)
-			- [Helper applications](#helper-applications)
-			- [Additional resources](#additional-resources)
+	- [Markdown syntax](#markdown-syntax)
+	- [Helper applications](#helper-applications)
+	- [Additional resources](#additional-resources)
 - [Training Modules](#training-modules)
 	- [Python data visualization](#python-data-visualization)
 	- [Pandoc](#pandoc)
@@ -22,24 +22,24 @@
 
 
 
-## General advice
+## General advice  
 
 Spend time everyday building and reinforcing computational skills. Like a foreign language, you need to use it to build mastery. Look for ways to use your new skills in various aspects of your work and life!
 
 
-## Command Line and Bash Shell
+## Command Line and Bash Shell  
 
 Getting started:
 
 Installation: For Mac, use the `Terminal` app; for Windows use `gitbash`. See installation directions on [this Software Carpentry page](https://xuf12.github.io/2015-11-10-northwesternu/).
 
-## GitHub and Git
+## GitHub and Git  
 
-##### Installation
+### Installation  
 
 For Mac, open the `Terminal` app and type `git`. If the software is not already installed follow the directions to install `Command Line Tools`. On Windows use `gitbash`. See installation directions on [this Software Carpentry page](https://xuf12.github.io/2015-11-10-northwesternu/).
 
-##### Training
+### Training  
 
 Beginner
 - [Online git tutorial](https://try.github.io)  
@@ -50,7 +50,7 @@ Beginner/Intermediate
 - [Learn git branching](http://learngitbranching.js.org)
 
 
-##### Reference
+### Reference  
 
 - [Pro Git eBook](https://git-scm.com/book/en/)
 - [Vince Buffalo's Bioinformatics Data Skills Book](http://vincebuffalo.org/book/)
@@ -80,7 +80,7 @@ Markdown documents typically have a `.md` file extension. This text is written i
 
 It is important to note that there are different flavors of markdown that support different types of formatting: tables, etc.
 
-##### Markdown syntax
+### Markdown syntax
 
 The original [markdown syntax](https://daringfireball.net/projects/markdown/syntax) from John Gruber
 
@@ -88,13 +88,13 @@ The original [markdown syntax](https://daringfireball.net/projects/markdown/synt
 
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-##### Helper applications
+### Helper applications
 
 [Dillinger.io](http://dillinger.io) online markdown editor
 
 Many applications have viewers and plugins, e.g., [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus) for the [Atom](https://atom.io) text editor.
 
-##### Additional resources
+### Additional resources
 
 [Pandoc](http://pandoc.org) is a versatile application for converting markdown to a variety of formats (Word, PDF, LaTeX, eBooks, etc).
 
