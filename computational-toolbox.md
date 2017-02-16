@@ -1,19 +1,39 @@
 # Computational Toolbox
 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [General advice](#general-advice)
+- [Command Line and Bash Shell](#command-line-and-bash-shell)
+- [GitHub and Git](#github-and-git)
+			- [Installation](#installation)
+			- [Training](#training)
+			- [Reference](#reference)
+- [Python](#python)
+- [Markdown](#markdown)
+			- [Markdown syntax](#markdown-syntax)
+			- [Helper applications](#helper-applications)
+			- [Additional resources](#additional-resources)
+- [Training Modules](#training-modules)
+	- [Python data visualization](#python-data-visualization)
+	- [Pandoc](#pandoc)
+
+<!-- /TOC -->
+
+
+
+
 ## General advice
 
 Spend time everyday building and reinforcing computational skills. Like a foreign language, you need to use it to build mastery. Look for ways to use your new skills in various aspects of your work and life!
 
 
-## Core skills
-
-### Command Line and Bash Shell
+## Command Line and Bash Shell
 
 Getting started:
 
 Installation: For Mac, use the `Terminal` app; for Windows use `gitbash`. See installation directions on [this Software Carpentry page](https://xuf12.github.io/2015-11-10-northwesternu/).
 
-### GitHub and Git
+## GitHub and Git
 
 ##### Installation
 
@@ -35,7 +55,7 @@ Beginner/Intermediate
 - [Pro Git eBook](https://git-scm.com/book/en/)
 - [Vince Buffalo's Bioinformatics Data Skills Book](http://vincebuffalo.org/book/)
 
-### Python
+## Python
 
 Getting started:
 
@@ -50,7 +70,7 @@ Becoming proficient:
 Attaining mastery:
 
 
-### Markdown
+## Markdown
 
 Markdown is a simple way to format when writing in a plain text document. You gain the benefit of having the document stored in an archival format (plain text) but that can be compiled simply to a formatted document. For example, asterisks surrounding a word will make it *italics*.
 
@@ -83,4 +103,8 @@ Many applications have viewers and plugins, e.g., [markdown-preview-plus](https:
 
 ### Python data visualization
 
+See stuff.
+
 ### Pandoc
+
+Write stuff.
