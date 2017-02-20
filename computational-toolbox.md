@@ -55,6 +55,14 @@ Beginner/Intermediate
 - [Pro Git eBook](https://git-scm.com/book/en/)
 - [Vince Buffalo's Bioinformatics Data Skills Book](http://vincebuffalo.org/book/)
 
+
+## Text Editor
+
+Whatever works for you.
+
+If you want some guidance, check out notes on [text editors](text-editors.md).
+
+
 ## Python
 
 Getting started:
@@ -92,7 +100,7 @@ The original [markdown syntax](https://daringfireball.net/projects/markdown/synt
 
 [Dillinger.io](http://dillinger.io) online markdown editor
 
-Many applications have viewers and plugins, e.g., [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus) for the [Atom](https://atom.io) text editor.
+Many applications have viewers and plugins, e.g., [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus) for the [Atom](https://atom.io) text editor. See our notes on [text editors](text-editors.md).
 
 ### Additional resources
 
