@@ -22,7 +22,6 @@ In general, there are three options for writing code. A bare-bones terminal edit
  ```bash
  git config --global core.editor "atom --wait"
  ```
- - You can check the `git` config
 1. To add any desired plugins, go to Atom menu > Preferences:
   - Settings
   - Install
